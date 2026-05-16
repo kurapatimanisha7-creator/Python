@@ -1,4 +1,5 @@
 #   list = used to store multiple items in a single variable
+#         changeable and square brackets []
 
 #food=["chiken","biryani","aloo fry","curd"]
 #       0          1          2        3
